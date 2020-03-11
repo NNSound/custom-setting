@@ -2,8 +2,10 @@
     "terminal.integrated.shell.linux": "/bin/bash",
     "python.jediEnabled": false,
     "window.zoomLevel": 0,
-    "editor.formatOnPaste": true, 
+    "editor.formatOnPaste": true,
     "files.insertFinalNewline": true,
-    "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
-    "editor.renderWhitespace": "all",    
+    "editor.fontFamily": "'monospace'",
+    "workbench.colorCustomizations": {
+        "editorWhitespace.foreground": "#FFFFFF"
+    }
 }
