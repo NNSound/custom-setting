@@ -2,9 +2,10 @@
     "terminal.integrated.shell.linux": "/bin/bash",
     "python.jediEnabled": false,
     "window.zoomLevel": 0,
-    "editor.formatOnPaste": true,
     "files.insertFinalNewline": true,
+    "editor.formatOnPaste": true,
     "editor.fontFamily": "'monospace'",
+    "editor.renderWhitespace": "all",
     "workbench.colorCustomizations": {
         "editorWhitespace.foreground": "#FFFFFF"
     }
